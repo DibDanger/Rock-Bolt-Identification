@@ -1,0 +1,6 @@
+2026-10-29 19:26:59,143 - Model - INFO - The number of test data is: 1
+2026-10-29 19:26:59,443 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2026-10-29 19:27:13,559 - Model - INFO - The number of test data is: 1
+2026-10-29 19:27:13,559 - Model - INFO - The number of test data is: 1
+2026-10-29 19:27:13,711 - Model - INFO - ---- EVALUATION WHOLE SCENE----
+2026-10-29 19:27:13,711 - Model - INFO - ---- EVALUATION WHOLE SCENE----
