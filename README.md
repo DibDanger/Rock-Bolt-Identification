@@ -19,7 +19,7 @@ The identified rock bolts are subsequently visualised on the original point clou
 
 ### Step 1: Input Data Preparation
 
-An example underground mine point cloud is provided in the `Raw Data` folder as a `.txt` file containing XYZ coordinates.
+An example underground mine point cloud is provided in the `Raw Data` folder as a `.txt` file containing XYZ coordinates. (Please unzip the file first)
 
 The corresponding manually identified ground-truth rock-bolt points are provided as individual `.txt` files in the `Ground Truth` folder.
 
